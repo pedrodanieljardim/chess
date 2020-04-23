@@ -10,7 +10,7 @@
 <p align="center">
   <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-How-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-License">License</a>&nbsp;&nbsp;&nbsp;
+  <a href="#License">License</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
