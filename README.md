@@ -19,7 +19,7 @@
   <img alt="Game finished" src="https://i.imgur.com/lsndehd.png" width="85%">
 </p>
 <p align="center">
-  <i> final look at project </i>
+  <i> Final look at project </i>
 </p>
 
 
